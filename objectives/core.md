@@ -16,3 +16,4 @@ TreeSeed Identity provides sovereign human and workload authentication through r
 
 Authentication must never imply team membership or application authority. Private installations remain independently operable, and federation remains explicit, directional, and non-transitive.
 
+TreeDX is the sole authoring and publication authority for this objective.
